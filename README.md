@@ -3,7 +3,7 @@
 Pronouns: she/her</p>
 
 <h2>:dizzy: About me </h2>
-<p> I've a bachelor's degree in linguistics and I'm currenly studying at ProgramAr, a state program to learn Fullstack skills . <br>
+<p> I've a bachelor's degree in linguistics and I'm currenly studying at Argentina Programa, a state program to learn Fullstack skills . <br>
     Also, I'm passionate about UX/UI, with focus in UX Writing and Research.
 </p>
 
