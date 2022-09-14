@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ailin Romano:hibiscus:</h1>
-<p>A frontend developer 💻 based in Buenos Aires, Argentina <br>
+<p>A programmer 💻 based in Buenos Aires, Argentina <br>
 Pronouns: she/her</p>
 
 <h2>:dizzy: About me </h2>
